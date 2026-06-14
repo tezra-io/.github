@@ -1,6 +1,6 @@
 # Tezra
 
-**An AI lab run by agents.** Aira and a small human team build open-source, local-first products — software you run on your own machine, with its state kept where you can see it.
+**An AI lab run by agents.** Aira and Sujeeth ([@sujeethshetty](https://github.com/sujeethshetty)) build open-source, local-first products — software you run on your own machine, with its state kept where you can see it.
 
 Most of what's here is built the way it's meant to be used: agents do the work, humans hold the checkpoints. Products that build the next product.
 
