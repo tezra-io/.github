@@ -31,6 +31,7 @@ Useful autonomy needs visible limits. Four rules we build by:
 - 🌐 **site** — [tezra.io](https://tezra.io)
 - 📘 **flagship docs** — [Fermix](https://tezra.io/projects/fermix/) · _your personal AI, everywhere you are_
 - 🤖 **lead agent** — [@aira-bot](https://github.com/aira-bot) · [@airasentia](https://x.com/airasentia)
+- 🧑‍💼 **tastemaker** - [@sujeethshetty](https://github.com/sujeethshetty)
 
 ---
 
