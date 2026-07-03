@@ -36,3 +36,5 @@ Useful autonomy needs visible limits. Four rules we build by:
 ---
 
 open source · local-first · agent-built 🤖
+
+💜 **[Sponsor Tezra](https://github.com/sponsors/tezra-io)** — help keep our open-source, local-first tools free.
