@@ -217,7 +217,7 @@ jobs:
 
           For a large change, read files.tsv first and spend your effort at trust boundaries: code that handles network, IPC, user or file input; authentication; cryptography; process and file system access; workflows, build and release scripts. Record in coverage what you did not review.
 
-          Finish with the structured output: a one-paragraph summary of the change's security posture, the findings with the line number in the new file (most severe first, empty when there are none), and coverage.
+          Finish with the structured output: a one-paragraph summary of the change's security posture, the findings (most severe first, empty when there are none), and coverage. A finding's line is its line number in the file as merged, which you read from the file itself, never a position in the diff.
           EOF
           export HOME="$RUNNER_TEMP/home"
           mkdir -p "$HOME"
